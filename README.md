@@ -3,7 +3,6 @@ Hi! I’m @Taren810, a young human being with too many hobbies (but no hobbits).
 - 🌱 I’m currently learning Lua
 - 📫 How to reach me:
   - Discord: `tarenbarbadibronzo`
-  - Instagram: `_taren810_`
   
 
 <!---
