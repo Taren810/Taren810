@@ -1,6 +1,5 @@
 Hi! I’m @Taren810, a young human being with too many hobbies (but no hobbits).
-- 👀 I’m interested in GDRs, Minetest, Dwarf Fortress
-- 🌱 I’m currently learning Lua
+- 👀 From time to time I create mods for games like Minetest or Mindustry
 - 📫 How to reach me:
   - Discord: `tarenbarbadibronzo`
   
